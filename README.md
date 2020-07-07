@@ -12,3 +12,5 @@ To install requirements
 ```
 pip install -r requirements.txt'
 ```
+
+See jupyter notebook for the implementation details.
