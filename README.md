@@ -10,7 +10,7 @@ VIGIA project is a project based in Mexico developed to assist government led ef
 To install requirements
 
 ```
-pip install -r requirements.txt'
+pip install -r requirements.txt
 ```
 
 See jupyter notebook for the implementation details.
